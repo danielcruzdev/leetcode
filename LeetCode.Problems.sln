@@ -15,7 +15,9 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "PalindromeNumber", "Palindr
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "RomanToInt", "RomanToInt\RomanToInt.csproj", "{4A0F309D-E288-44BD-A67D-62893CC45EF2}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LongestCommonPrefix", "LongestCommonPrefix\LongestCommonPrefix.csproj", "{863F5D3E-0F23-4D50-A04A-488F76E3EAF6}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "LongestCommonPrefix", "LongestCommonPrefix\LongestCommonPrefix.csproj", "{863F5D3E-0F23-4D50-A04A-488F76E3EAF6}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ValidParentheses", "ValidParentheses\ValidParentheses.csproj", "{1DE8409C-E805-4F50-A4D2-C6E3C645DBB4}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -39,6 +41,10 @@ Global
 		{863F5D3E-0F23-4D50-A04A-488F76E3EAF6}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{863F5D3E-0F23-4D50-A04A-488F76E3EAF6}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{863F5D3E-0F23-4D50-A04A-488F76E3EAF6}.Release|Any CPU.Build.0 = Release|Any CPU
+		{1DE8409C-E805-4F50-A4D2-C6E3C645DBB4}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1DE8409C-E805-4F50-A4D2-C6E3C645DBB4}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1DE8409C-E805-4F50-A4D2-C6E3C645DBB4}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1DE8409C-E805-4F50-A4D2-C6E3C645DBB4}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
@@ -48,6 +54,7 @@ Global
 		{0E07119D-EAAB-489F-AA74-50DF135A5B3D} = {CBC42E58-AB85-4480-AC63-DC918300B771}
 		{4A0F309D-E288-44BD-A67D-62893CC45EF2} = {CBC42E58-AB85-4480-AC63-DC918300B771}
 		{863F5D3E-0F23-4D50-A04A-488F76E3EAF6} = {CBC42E58-AB85-4480-AC63-DC918300B771}
+		{1DE8409C-E805-4F50-A4D2-C6E3C645DBB4} = {CBC42E58-AB85-4480-AC63-DC918300B771}
 	EndGlobalSection
 	GlobalSection(ExtensibilityGlobals) = postSolution
 		SolutionGuid = {ED3D22FD-9BD4-4EC9-9B67-34BDED130197}

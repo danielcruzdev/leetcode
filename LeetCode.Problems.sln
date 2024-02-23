@@ -19,7 +19,9 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "LongestCommonPrefix", "Long
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ValidParentheses", "ValidParentheses\ValidParentheses.csproj", "{1DE8409C-E805-4F50-A4D2-C6E3C645DBB4}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MergeTwoLists", "MergeTwoLists\MergeTwoLists.csproj", "{316E678B-A2FE-4691-AA56-D32168F8FCD3}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "MergeTwoLists", "MergeTwoLists\MergeTwoLists.csproj", "{316E678B-A2FE-4691-AA56-D32168F8FCD3}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "RemoveDuplicatesSortedArray", "RemoveDuplicatesSortedArray\RemoveDuplicatesSortedArray.csproj", "{58C2965B-2C21-4DE2-9ACC-28AB82F3BDCB}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -51,6 +53,10 @@ Global
 		{316E678B-A2FE-4691-AA56-D32168F8FCD3}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{316E678B-A2FE-4691-AA56-D32168F8FCD3}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{316E678B-A2FE-4691-AA56-D32168F8FCD3}.Release|Any CPU.Build.0 = Release|Any CPU
+		{58C2965B-2C21-4DE2-9ACC-28AB82F3BDCB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{58C2965B-2C21-4DE2-9ACC-28AB82F3BDCB}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{58C2965B-2C21-4DE2-9ACC-28AB82F3BDCB}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{58C2965B-2C21-4DE2-9ACC-28AB82F3BDCB}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
@@ -62,6 +68,7 @@ Global
 		{863F5D3E-0F23-4D50-A04A-488F76E3EAF6} = {CBC42E58-AB85-4480-AC63-DC918300B771}
 		{1DE8409C-E805-4F50-A4D2-C6E3C645DBB4} = {CBC42E58-AB85-4480-AC63-DC918300B771}
 		{316E678B-A2FE-4691-AA56-D32168F8FCD3} = {CBC42E58-AB85-4480-AC63-DC918300B771}
+		{58C2965B-2C21-4DE2-9ACC-28AB82F3BDCB} = {CBC42E58-AB85-4480-AC63-DC918300B771}
 	EndGlobalSection
 	GlobalSection(ExtensibilityGlobals) = postSolution
 		SolutionGuid = {ED3D22FD-9BD4-4EC9-9B67-34BDED130197}

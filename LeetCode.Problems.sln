@@ -27,9 +27,11 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "RemoveElement", "RemoveElem
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "FindTheIndexString", "FindTheIndexString\FindTheIndexString.csproj", "{9A6BA3BF-D31B-4849-A2CE-8FDEA5B35B24}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SearchInsert", "SearchInsert\SearchInsert.csproj", "{AAB7C4EC-0B0D-47B2-B4FD-D3A310C436E3}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "SearchInsert", "SearchInsert\SearchInsert.csproj", "{AAB7C4EC-0B0D-47B2-B4FD-D3A310C436E3}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LengthOfLastWord", "LengthOfLastWord\LengthOfLastWord.csproj", "{5D7CC54D-C9CC-4DFB-930F-9D174510FC24}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "LengthOfLastWord", "LengthOfLastWord\LengthOfLastWord.csproj", "{5D7CC54D-C9CC-4DFB-930F-9D174510FC24}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PlusOne", "PlusOne\PlusOne.csproj", "{B2EDE59E-7ABD-48A2-8633-77AA95842876}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -81,6 +83,10 @@ Global
 		{5D7CC54D-C9CC-4DFB-930F-9D174510FC24}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{5D7CC54D-C9CC-4DFB-930F-9D174510FC24}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{5D7CC54D-C9CC-4DFB-930F-9D174510FC24}.Release|Any CPU.Build.0 = Release|Any CPU
+		{B2EDE59E-7ABD-48A2-8633-77AA95842876}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B2EDE59E-7ABD-48A2-8633-77AA95842876}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B2EDE59E-7ABD-48A2-8633-77AA95842876}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B2EDE59E-7ABD-48A2-8633-77AA95842876}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
@@ -97,6 +103,7 @@ Global
 		{9A6BA3BF-D31B-4849-A2CE-8FDEA5B35B24} = {CBC42E58-AB85-4480-AC63-DC918300B771}
 		{AAB7C4EC-0B0D-47B2-B4FD-D3A310C436E3} = {CBC42E58-AB85-4480-AC63-DC918300B771}
 		{5D7CC54D-C9CC-4DFB-930F-9D174510FC24} = {CBC42E58-AB85-4480-AC63-DC918300B771}
+		{B2EDE59E-7ABD-48A2-8633-77AA95842876} = {CBC42E58-AB85-4480-AC63-DC918300B771}
 	EndGlobalSection
 	GlobalSection(ExtensibilityGlobals) = postSolution
 		SolutionGuid = {ED3D22FD-9BD4-4EC9-9B67-34BDED130197}
